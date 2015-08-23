@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyPreferences</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_settings">Pref_Settings</string>
+    <string-array name="opts">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+    <string-array
+        name="opts_value">
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+    </string-array>
+</resources>
